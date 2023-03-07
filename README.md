@@ -46,7 +46,3 @@ As an AI Language model, I do not have the access to your computer to install pa
 
 Note: If you encounter any errors or have issues with the installation, you can refer to the pandas documentation or reach out to the pandas community for support.
 ```
-
-## Extra
-
-If you need ChatGPT API please contact me.
